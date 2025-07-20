@@ -87,7 +87,6 @@ Where:
 1. **Clone the repository:**
 ```bash
 git clone <repository-url>
-cd NN
 ```
 
 2. **Install required packages:**
