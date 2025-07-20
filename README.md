@@ -50,7 +50,7 @@ The project uses a state-of-the-art deep learning approach with LSTM networks to
 - **Optimizer**: Adam optimizer with learning rate 0.001
 - **Loss Function**: Mean Squared Error (MSE)
 - **Learning Rate Scheduling**: ReduceLROnPlateau for adaptive learning rate
-- **⏹Early Stopping**: Prevents overfitting with patience of 20 epochs
+- **Early Stopping**: Prevents overfitting with patience of 20 epochs
 - **Model Checkpointing**: Saves best model based on validation loss
 
 ### Evaluation Metrics
